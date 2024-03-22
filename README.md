@@ -24,7 +24,7 @@ Download at https://julialang.org/downloads/ and install the Julia language.
 Assuming `julia` is in your path, run
 
 ```bash
-git clone https://github.com/AtomicFrontierCode/keyboards.git
+git clone https://github.com/StoiaCode/keyboards.git
 cd keyboards
 julia -L 'keyboardSA.jl'
 ```
